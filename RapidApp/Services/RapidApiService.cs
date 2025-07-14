@@ -35,7 +35,7 @@ namespace RapidApp.Services
                 RequestUri = new Uri(url),
                 Headers =
         {
-            { "x-rapidapi-key", "63639f44a8msha901a2b60d6d600p1e38f9jsneb8404f9f71e" },
+            { "x-rapidapi-key", "" },
             { "x-rapidapi-host", "booking-com15.p.rapidapi.com" }
         }
             };
@@ -77,7 +77,7 @@ namespace RapidApp.Services
                 RequestUri = new Uri(url),
                 Headers =
         {
-            { "x-rapidapi-key", "63639f44a8msha901a2b60d6d600p1e38f9jsneb8404f9f71e" },
+            { "x-rapidapi-key", "" },
             { "x-rapidapi-host", "booking-com15.p.rapidapi.com" }
         }
             };
